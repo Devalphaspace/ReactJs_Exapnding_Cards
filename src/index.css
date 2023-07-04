@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+html{
+  overflow-x: hidden;
+}
